@@ -1,0 +1,19 @@
+html {
+    margin: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+
+
+/*Tabletti-näkymän säännöt*/
+@media only screen and (min-width: 426px) {
+
+.flexing {
+        display: flex;
+        flex-wrap:nowrap;
+    }
+
+.success {
+    margin-right: 1rem;
+}
+}
